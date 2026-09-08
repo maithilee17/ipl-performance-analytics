@@ -25,6 +25,16 @@ The source data consists of two Kaggle CSV files:
 
 The data spans 17 IPL season labels and includes match details, teams, venues, results, delivery outcomes, batters, bowlers, extras, and dismissals. The raw files are excluded from version control and remain unchanged throughout the project.
 
+## Dataset attribution
+
+This project uses the **IPL Complete Dataset (2008–2024)** published on Kaggle by **Prateek Bhardwaj**.
+
+- Kaggle: [IPL Complete Dataset (2008–2024)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+- Data source acknowledged by the dataset: **Cricsheet**
+- License listed on Kaggle: **Open Database, Open Database Contents**
+
+The raw and processed dataset files are intentionally excluded from this repository in accordance with the project's data-handling policy. The project code, analysis, SQL, notebooks, Tableau workbook, and dashboard screenshot are included.
+
 ## Data preparation
 
 The Python workflow:
